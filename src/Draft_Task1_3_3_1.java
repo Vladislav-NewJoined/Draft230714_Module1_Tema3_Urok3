@@ -9,6 +9,6 @@ public class Draft_Task1_3_3_1 {
             System.out.println(x);
             i++;
         }
-        System.out.println("Done1");
+        System.out.println("Done!");
     }
 }
